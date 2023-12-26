@@ -1,4 +1,4 @@
-![logo](https://github.com/mr-kamlesh-527/mr-kamlesh-527/blob/main/Profile%20banner.png)
+![logo](https://github.com/mr-kamlesh-527/mr-kamlesh-527/blob/main/Profile-banner.png)
 <h1 align="center">Hi 👋, I'm Chavan Kamlesh</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
 
