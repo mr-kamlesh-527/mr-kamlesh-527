@@ -11,6 +11,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/chavan-kamlesh-755556247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chavan-kamlesh-755556247" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/mr_kamlesh_527?igsh=mznlngnkzwq4mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mr_kamlesh_527?igsh=mznlngnkzwq4mg==" height="30" width="40" /></a>
+<a href="https://api.whatsapp.com/send?phone=918390220159&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20Varela%202." target="_blank"><i class="fa fa-whatsapp" aria-hidden="true"></i></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
